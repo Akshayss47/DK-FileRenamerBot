@@ -102,12 +102,12 @@ async def start_me(bot, update):
                         InlineKeyboardButton("Help", callback_data = "ghelp")
                 ],
                 [
-                    InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇs', url='https://t.me/dk_botx'),
-                    InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://t.me/dkbotxchats')
+                    InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇs', url='https://t.me/Ak_Botx'),
+                    InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://t.me/Ak_Botx')
                 ],
                 [
-                    InlineKeyboardButton('ᴅᴇᴠᴏʟᴏᴘᴇʀ', url='https://t.me/vloggerdeven_TG'),
-                    InlineKeyboardButton('sᴏᴜʀᴄᴇ', url='https://github.com/DKBOTx/FileRenamerBot')
+                    InlineKeyboardButton('ᴅᴇᴠᴏʟᴏᴘᴇʀ', url='https://t.me/Ak_Botx'),
+                    InlineKeyboardButton('sᴏᴜʀᴄᴇ', url='https://t.me/Ak_Botx')
                 ]
             ]
         ),
